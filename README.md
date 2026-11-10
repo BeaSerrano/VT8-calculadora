@@ -1,6 +1,7 @@
 # Calculadora VT8
 
 Aplicación Java sencilla que permite realizar operaciones matemáticas, por ahora solo permite sumar.
+No le pidas nada más por ahora!!!!!!
 
 ## Diseño
 
