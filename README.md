@@ -11,4 +11,4 @@ Main --> Calculadora
 
 ## Criterio de validación
 
-Si se llama a sumar(4, 10), el resultado debe ser 10.
+Si se llama a sumar(5, 5), el resultado debe ser 10.
