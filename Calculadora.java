@@ -1,6 +1,6 @@
 public class Calculadora {
     /**
-     * Calculadora - Calcula la suma de dos números enteros.
+     * Calculadora - Calcula la suma de dos números enteros, siempre positivos.
      * 
      * @param a primer número
      * @param b segundo número
